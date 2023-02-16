@@ -1,1 +1,4 @@
 
+db:
+  user: uatuser
+  pass: uatPass
