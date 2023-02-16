@@ -1,3 +1,3 @@
 db:
-  user: pankaj
-  pass: udas
+  user: localuser
+  pass: localPass
